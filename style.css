@@ -1,0 +1,42 @@
+.header-menu{
+    list-style: none;
+    display: flex;
+}
+.header-avatar-icon{
+    width: 25px;
+}
+.header-wrap{
+    display: flex;
+    justify-content: space-between;
+}
+.header-part{
+    display: flex;
+}
+.header-account{
+    display: flex;
+}
+.container{
+    width: 1180px;
+    height: 40px;
+    margin: 0 auto;
+}
+.header-menu-item{
+    margin-left: 30px;
+}
+.small-text{
+    color: #2B788B;
+    display: flex;
+    font-family: "Montserrat" , sans-serif;
+    font-size: 16px;
+}
+.text-title{
+    color: #000000;
+    font-size: 56px;
+    font-family: "Dela Gothic One" , sans-serif;
+    display: flex;
+}
+.small-text2{
+    color: #757575;
+    font-size: 18px;
+    display: flex;
+}
